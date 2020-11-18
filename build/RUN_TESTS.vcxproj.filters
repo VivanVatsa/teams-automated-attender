@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Vivan\Documents\GitHub\teams-automated-attender\build\CMakeFiles\76efc52a7043ed50470b146e162237d5\RUN_TESTS_force.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{E670B170-4D28-37EF-BCE7-18132E6D6D4C}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
